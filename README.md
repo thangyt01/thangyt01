@@ -13,6 +13,8 @@
   - Utilize **NX** for monorepo architecture to optimize project development.
   - Develop scalable backend services with **NestJS**, **GraphQL Federation**, and **tRPC**.
   - Build high-performance web applications with **Next.js** and **Turborepo**.
+  - Build enterprise applications with **.NET** and **C#**.
+  - Develop automation, data processing, and scripting with **Python**.
   - Deploy and manage cloud infrastructure on **AWS** using **K8S**, **Helm**, **Docker**.
   - Design and optimize databases with **PostgreSQL**, **MongoDB**, and **Redis**.
   - Develop data crawling systems using **Playwright** and **Scrapy**.
@@ -43,6 +45,9 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
   <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40" />
@@ -52,7 +57,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
 </p>
 
 <br>
